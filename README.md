@@ -16,7 +16,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/gstefanis/
 
 ### Building things 🔨
-Lately I've been working on [avcud.com](https://avcud.com), a website I made during in 2020 to help me find the best movie for each year. I wrote about it [on dev.to](https://dev.to/stefanisg/completing-a-side-project-presenting-avcud-1f1k). If you have some feedback on it please hit me on Twitter, I'd love to know.
+Lately I've been working on [avcud.com](https://avcud.com), a website I made on 2020 to help me find the best movie for each year. I wrote about it [on dev.to](https://dev.to/stefanisg/completing-a-side-project-presenting-avcud-1f1k). If you have some feedback on it please hit me on Twitter, I'd love to know.
 
 If you want to follow on the development I also have a newsletter where I sporadigly send updates. [Subsribe here!](https://avcud.substack.com/)
 
