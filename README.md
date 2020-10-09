@@ -1,3 +1,5 @@
+![](https://d1r0s904xa43e6.cloudfront.net/image1.jpg?width=400)
+
 ### Hi there 👋
 My name is George and I am a software developer currently based in London. I've been working mostly on the frontend but I often enjoy having some backend and devops adventures. I love cooking, taking photos of things and running.
 
@@ -19,9 +21,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 I like writing and blogging. You can find [my website here](https://www.georgestefanis.com/)
 
 Some of my favourite blog posts:
-* https://www.georgestefanis.com/blog/2017/05/20/hire-for-cultural-diversity.html
-* https://www.georgestefanis.com/blog/2018/02/14/features-vs-quality.html
-* https://www.georgestefanis.com/blog/2020/03/01/accesssible-but-not-too-familiar.html
+* [Cultural fit is killing your company. Hiring for diversity.](https://www.georgestefanis.com/blog/2017/05/20/hire-for-cultural-diversity.html)
+* [Features vs Quality](https://www.georgestefanis.com/blog/2018/02/14/features-vs-quality.html)
+* [Behaving at work: Accessible but not too familiar](https://www.georgestefanis.com/blog/2020/03/01/accesssible-but-not-too-familiar.html)
 
 ### Building things 🔨
 Lately I've been working on [avcud.com](https://avcud.com), a website I made during in 2020 to help me find the best movie for each year. I wrote about it [on dev.to](https://dev.to/stefanisg/completing-a-side-project-presenting-avcud-1f1k). If you have some feedback on it please hit me on Twitter, I'd love to know.
