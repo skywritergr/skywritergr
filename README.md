@@ -1,5 +1,3 @@
-![](https://d1r0s904xa43e6.cloudfront.net/image1.jpg?width=400)
-
 ### Hi there 👋
 My name is George and I am a software developer currently based in London. I've been working mostly on the frontend but I often enjoy having some backend and devops adventures. I love cooking, taking photos of things and running.
 
