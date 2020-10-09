@@ -15,6 +15,13 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/stefanisg
 [2]: https://www.linkedin.com/in/gstefanis/
 
+### Building things 🔨
+Lately I've been working on [avcud.com](https://avcud.com), a website I made during in 2020 to help me find the best movie for each year. I wrote about it [on dev.to](https://dev.to/stefanisg/completing-a-side-project-presenting-avcud-1f1k). If you have some feedback on it please hit me on Twitter, I'd love to know.
+
+If you want to follow on the development I also have a newsletter where I sporadigly send updates. [Subsribe here!](https://avcud.substack.com/)
+
+I am also currently helping [Oaknorth](https://www.oaknorth.com/?noredirect) build a credit platform to enable SMEs to have better access in lending. Before that I was working for [Transferwise](https://transferwise.com/), [Disney](https://disney.co.uk/) and [Cerner](https://www.cerner.com/).
+
 ### Writing ✍️
 I like writing and blogging. You can find [my website here](https://www.georgestefanis.com/)
 
@@ -23,12 +30,10 @@ Some of my favourite blog posts:
 * [Features vs Quality](https://www.georgestefanis.com/blog/2018/02/14/features-vs-quality.html)
 * [Behaving at work: Accessible but not too familiar](https://www.georgestefanis.com/blog/2020/03/01/accesssible-but-not-too-familiar.html)
 
-### Building things 🔨
-Lately I've been working on [avcud.com](https://avcud.com), a website I made during in 2020 to help me find the best movie for each year. I wrote about it [on dev.to](https://dev.to/stefanisg/completing-a-side-project-presenting-avcud-1f1k). If you have some feedback on it please hit me on Twitter, I'd love to know.
-
-If you want to follow on the development I also have a newsletter where I sporadigly send updates. [Subsribe here!](https://avcud.substack.com/)
-
-I am also currently helping [Oaknorth](https://www.oaknorth.com/?noredirect) build a credit platform to enable SMEs to have better access in lending. Before that I was working for [Transferwise](https://transferwise.com/), [Disney](https://disney.co.uk/) and [Cerner](https://www.cerner.com/).
+### Other fun things I did 🎸
+* Went to TechCrunch Disrupt hackathon in 2015 and came second with [MedicSMS](https://devpost.com/software/medicsms)
+* Went again next year with the same awesome team and we came third with [RefuTweet](https://devpost.com/software/refutweet)
+* I did build a guitar from scratch in 2018. I wrote about it [here](https://www.stefanis.studio/2018/07/09/lessons-from-building-a-guitar/)
 
 <!--
 **skywritergr/skywritergr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
