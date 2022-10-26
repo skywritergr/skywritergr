@@ -33,8 +33,7 @@ Some of my favourite blog posts:
 ### Other fun things I did 🎸
 * Went to TechCrunch Disrupt hackathon in 2015 and came second with [MedicSMS](https://devpost.com/software/medicsms)
 * Went again next year with the same awesome team and we came third with [RefuTweet](https://devpost.com/software/refutweet)
-* I did build a guitar from scratch in 2018. I wrote about it [here](https://www.stefanis.studio/2018/07/09/lessons-from-building-a-guitar/)
-
+* I've been fixing some old consoles lately. You can see me fixing a Gameboy [here](https://www.youtube.com/watch?v=MLtr4vd6cb8)
 <!--
 **skywritergr/skywritergr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
