@@ -20,7 +20,7 @@ Lately I've been working on [avcud.com](https://avcud.com), a website I made on 
 
 If you want to follow on the development I also have a newsletter where I sporadigly send updates. [Subsribe here!](https://avcud.substack.com/)
 
-I am also currently helping [Oaknorth](https://www.oaknorth.com/?noredirect) build a credit platform to enable SMEs to have better access in lending. Before that I was working for [Transferwise](https://transferwise.com/), [Disney](https://disney.co.uk/) and [Cerner](https://www.cerner.com/).
+I am also currently working at [ThousandEyes(part of Cisco)](https://thousandeyes.com) monitoring all the networks. Before that I was working for [Oaknorth](https://www.oaknorth.com/), [Wise](https://wise.com/), [Disney](https://disney.co.uk/) and [Cerner](https://www.cerner.com/).
 
 ### Writing ✍️
 I like writing and blogging. You can find [my website here](https://www.georgestefanis.com/)
