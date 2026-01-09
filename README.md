@@ -1,50 +1,39 @@
-### Hi there 👋
-My name is George and I am a software developer currently based in London. I've been working mostly on the frontend but I often enjoy having some backend and devops adventures. I love cooking, taking photos of things and running.
+# Hey there! 👋
 
-<!-- Actual text -->
+I'm George, an Engineer based in London. I build things that help people occassionally move money, other times making sure networks work correctly or little tools that solve my own problems.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+## What I Do 💼
 
-<!-- Icons -->
+I lead engineering teams while keeping my hands firmly in the code – because the best way to understand your team's challenges is to face them yourself. My stack spans the full spectrum: React and Vue.js on the frontend, Node.js, Python, and Java on the backend, with occasional AWS adventures to keep things interesting.
 
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://d1r0s904xa43e6.cloudfront.net/linkedin.png
+Previously, I spent time at [ThousandEyes (Cisco)](https://thousandeyes.com), [OakNorth](https://www.oaknorth.com/), helped [Wise](https://wise.com) move money across borders, and worked on systems at [Disney](https://disney.co.uk/) and [Cerner](https://www.cerner.com/).
 
-<!-- Links to your social media accounts -->
+## Currently Tinkering With 🔨
 
-[1]: https://twitter.com/stefanisg
-[2]: https://www.linkedin.com/in/gstefanis/
+**[UK Rental Property Tax Calculator](https://tax-calculator.stefanis.dev/main.html)** – A side project born from necessity (and my inability to understand HMRC's documentation). It's a couples-focused financial planning tool that helps UK landlords navigate the byzantine world of rental property taxation without losing their minds.
 
-### Building things 🔨
-Lately I've been re-working [avcud.com](https://avcud.com), a website I made on 2020 to help me find the best movie for each year. I wrote about it [on dev.to](https://dev.to/stefanisg/completing-a-side-project-presenting-avcud-1f1k). If you have some feedback on it please hit me on Twitter, I'd love to know.
+**Movie finder** – My answer to "what was the best movie from 1994?" Originally built in 2020 to settle endless arguments about film years. [Read about it on dev.to](https://dev.to/stefanisg/completing-a-side-project-presenting-avcud-1f1k). If you have thoughts, hit me up on [BlueSky](https://bsky.app/profile/stefanis.dev) – feedback genuinely appreciated!
 
-If you want to follow on the development I also have a newsletter where I sporadigly send updates. [Subsribe here!](https://avcud.substack.com/)
+Want updates on my projects? I occasionally remember to send updates via [my newsletter](https://stefanisg.substack.com).
 
-I am also currently working at [ThousandEyes(part of Cisco)](https://thousandeyes.com) monitoring all the networks. Before that I was working for [Oaknorth](https://www.oaknorth.com/), [Wise](https://wise.com/), [Disney](https://disney.co.uk/) and [Cerner](https://www.cerner.com/).
+## Writing & Thinking ✍️
 
-### Writing ✍️
-I like writing and blogging. You can find [my website here](https://www.georgestefanis.com/)
+I blog sporadically at [georgestefanis.com](https://www.georgestefanis.com/) about engineering, leadership, and workplace culture. I also have a podcast in Greek called [BadGuys](https://www.badguys.fm/).
 
-Some of my favourite blog posts:
-* [Cultural fit is killing your company. Hiring for diversity.](https://www.georgestefanis.com/blog/2017/05/20/hire-for-cultural-diversity.html)
-* [Features vs Quality](https://www.georgestefanis.com/blog/2018/02/14/features-vs-quality.html)
-* [Behaving at work: Accessible but not too familiar](https://www.georgestefanis.com/blog/2020/03/01/accesssible-but-not-too-familiar.html)
+## Random Accomplishments 🏆
 
-### Other fun things I did 🎸
-* Went to TechCrunch Disrupt hackathon in 2015 and came second with [MedicSMS](https://devpost.com/software/medicsms)
-* Went again next year with the same awesome team and we came third with [RefuTweet](https://devpost.com/software/refutweet)
-* I've been fixing some old consoles lately. You can see me fixing a Gameboy [here](https://www.youtube.com/watch?v=MLtr4vd6cb8)
-<!--
-**skywritergr/skywritergr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **2nd Place, TechCrunch Disrupt London 2015** – Built [MedicSMS](https://devpost.com/software/medicsms), first aid diagnosis for the developing world via SMS
+* **3rd Place, TechCrunch Disrupt London 2016** – Created [RefuTweet](https://devpost.com/software/refutweet) with the same excellent team
+* **Console Resurrectionist** – I fix old gaming hardware for fun. Here's me [bringing a Gameboy back to life](https://www.youtube.com/watch?v=MLtr4vd6cb8)
 
-Here are some ideas to get you started:
+## When Not Coding 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You'll find me cycling around London (or on Zwift when British weather strikes), cooking elaborate Greek-inspired dinners, training for marathons (currently targeting Copenhagen Marathon May 2025), or obsessing over my European-minimalist wardrobe aesthetic.
+
+## Let's Connect 🤝
+
+[🦋 Bluesky](https://bsky.app/profile/stefanis.dev) | [![LinkedIn](https://d1r0s904xa43e6.cloudfront.net/linkedin.png)](https://www.linkedin.com/in/gstefanis/)
+
+---
+
+*Originally from Lamia, Greece. Now firmly settled in east London with a collection of running shoes that's getting mildly concerning.*
