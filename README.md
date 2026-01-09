@@ -24,7 +24,6 @@ I blog sporadically at [georgestefanis.com](https://www.georgestefanis.com/) abo
 
 * **2nd Place, TechCrunch Disrupt London 2015** – Built [MedicSMS](https://devpost.com/software/medicsms), first aid diagnosis for the developing world via SMS
 * **3rd Place, TechCrunch Disrupt London 2016** – Created [RefuTweet](https://devpost.com/software/refutweet) with the same excellent team
-* **Console Resurrectionist** – I fix old gaming hardware for fun. Here's me [bringing a Gameboy back to life](https://www.youtube.com/watch?v=MLtr4vd6cb8)
 
 ## When Not Coding 🎯
 
