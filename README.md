@@ -27,11 +27,11 @@ I blog sporadically at [georgestefanis.com](https://www.georgestefanis.com/) abo
 
 ## When Not Coding 🎯
 
-You'll find me cycling around London (or on Zwift when British weather strikes), cooking elaborate Greek-inspired dinners, training for marathons (currently targeting Copenhagen Marathon May 2025), or obsessing over my European-minimalist wardrobe aesthetic.
+You'll find me cycling around London (or on Zwift when British weather strikes), cooking elaborate Greek-inspired dinners, running, or reading.
 
 ## Let's Connect 🤝
 
-[🦋 Bluesky](https://bsky.app/profile/stefanis.dev) | [![LinkedIn](https://d1r0s904xa43e6.cloudfront.net/linkedin.png)](https://www.linkedin.com/in/gstefanis/)
+[🦋](https://bsky.app/profile/stefanis.dev) | [![LinkedIn](https://d1r0s904xa43e6.cloudfront.net/linkedin.png)](https://www.linkedin.com/in/gstefanis/)
 
 ---
 
