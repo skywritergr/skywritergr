@@ -4,21 +4,21 @@ I'm George, an Engineer based in London. I build things that help people occassi
 
 ## What I Do 💼
 
-I lead engineering teams while keeping my hands firmly in the code – because the best way to understand your team's challenges is to face them yourself. My stack spans the full spectrum: React and Vue.js on the frontend, Node.js, Python, and Java on the backend, with occasional AWS adventures to keep things interesting.
+I lead engineering teams while keeping my hands firmly in the code. My stack spans the full spectrum: React and Vue.js on the frontend, Node.js, Python, and Java on the backend, with occasional AWS adventures to keep things interesting.
 
-Previously, I spent time at [ThousandEyes (Cisco)](https://thousandeyes.com), [OakNorth](https://www.oaknorth.com/), helped [Wise](https://wise.com) move money across borders, and worked on systems at [Disney](https://disney.co.uk/) and [Cerner](https://www.cerner.com/).
+Currently, I am an Engineering Lead on [Wise](https://wise.com)'s Partner Experience team. I build the platform that banks and financial partners use to integrate with Wise: the partner portal, identity and auth systems, and the APIs behind Wise's partner business. Previously, I spent time at [ThousandEyes (Cisco)](https://thousandeyes.com), [OakNorth](https://www.oaknorth.com/) and worked on tools and systems at [Disney](https://disney.co.uk/) and [Cerner](https://www.cerner.com/).
 
 ## Currently Tinkering With 🔨
 
 **[UK Rental Property Tax Calculator](https://tax-calculator.stefanis.dev/main.html)** – A side project born from necessity (and my inability to understand HMRC's documentation). It's a couples-focused financial planning tool that helps UK landlords navigate the byzantine world of rental property taxation without losing their minds.
 
-**Movie finder** – My answer to "what was the best movie from 1994?" Originally built in 2020 to settle endless arguments about film years. [Read about it on dev.to](https://dev.to/stefanisg/completing-a-side-project-presenting-avcud-1f1k). If you have thoughts, hit me up on [BlueSky](https://bsky.app/profile/stefanis.dev) – feedback genuinely appreciated!
+**Movie finder** – My answer to "what was the best movie from 1994?" Originally built in 2020 to settle endless arguments about film years. [Read about it on dev.to](https://dev.to/stefanisg/completing-a-side-project-presenting-avcud-1f1k). If you have thoughts, hit me up on [BlueSky](https://bsky.app/profile/stefanis.dev).
 
 Want updates on my projects? I occasionally remember to send updates via [my newsletter](https://stefanisg.substack.com).
 
 ## Writing & Thinking ✍️
 
-I blog sporadically at [georgestefanis.com](https://www.georgestefanis.com/) about engineering, leadership, and workplace culture. I also have a podcast in Greek called [BadGuys](https://www.badguys.fm/).
+I blog sporadically at [georgestefanis.com](https://www.georgestefanis.com/) about engineering, leadership, and workplace culture.
 
 ## Random Accomplishments 🏆
 
